@@ -26,14 +26,14 @@ EDA, 데이터 전처리, LGBM 최적화 | EDA, 데이터 전처리, CatBoost �
 ```
 예시
 ├─src
-	├─models
-	   ├───CatBoostV1
-	   ├───CatBoostV2
-	   ├───LGBM
-	├─preprocessing
-	   ├───CatBoostV1_Preprocessing
-	   ├───CatBoostV2_Preprocessing
-	   ├───LGBM_Preprocessing
+   ├─models
+      ├───CatBoostV1
+      ├───CatBoostV2
+      ├───LGBM
+   ├─preprocessing
+      ├───CatBoostV1_Preprocessing
+      ├───CatBoostV2_Preprocessing
+      ├───LGBM_Preprocessing
 ├─main.py
 ├─ensemble.py
 ├─requirements.txt
