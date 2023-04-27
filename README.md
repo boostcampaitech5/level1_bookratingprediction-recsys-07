@@ -19,7 +19,7 @@
 | <img src="https://user-images.githubusercontent.com/54920378/234445940-62c40bf9-793e-4961-82c0-0154641ddccb.png" width=200> | <img src="https://user-images.githubusercontent.com/54920378/234445810-920b34cc-8c3f-411e-980d-3f48d754bc82.png" width=200> | <img src="https://user-images.githubusercontent.com/54920378/234445975-9d02a616-ae78-4bca-9e9e-f0962748c666.png" width=200> | <img src="https://user-images.githubusercontent.com/54920378/234446009-f6bf5790-f164-4c63-a6fb-293dd0ff258b.png" width=200> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |              [강은비](https://github.com/ebbbi)              |            [김철현](https://github.com/Risk-boy)             |           [이한정](https://github.com/leehanjeong)           |             [최민수](https://github.com/MSGitt)              |
-|               EDA, 데이터 전처리, LGBM 최적화                |        EDA, 데이터 전처리, <br />CatBoost 모델 최적화        |                      EDA, 데이터 전처리                      | EDA, 데이터 전처리, <br />CatBoost 모델 설계 및 최적화, <br />팀 목표 설정 및 스케줄 관리 |
+|             EDA, 데이터 전처리,<br />LGBM 최적화             |        EDA, 데이터 전처리, <br />CatBoost 모델 최적화        |                      EDA, 데이터 전처리                      | EDA, 데이터 전처리, <br />CatBoost 모델 설계 및 최적화, <br />팀 목표 설정 및 스케줄 관리 |
 
 <br /> 
 
